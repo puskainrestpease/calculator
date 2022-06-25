@@ -1,2 +1,3 @@
-# calculator
-mini calculator written in python
+### Mini-Calculator Python
+
+  - Adapted python calculator now with coloring ❤️ 
