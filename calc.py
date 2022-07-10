@@ -12,7 +12,6 @@ except ModuleNotFoundError or ImportError as er:
 
 if __name__ == '__main__':
     try:
-        os.system('clear')
         print(eval(input(f'''Input here you'r example: ''')))
     except Exception as er:
         if 'unexpected EOF while parsing (<string>, line 0)' or 'unexpected EOF while parsing (<string>, line 1)' in er:
